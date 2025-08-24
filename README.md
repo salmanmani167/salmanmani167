@@ -9,6 +9,17 @@
   <img src="https://img.shields.io/github/followers/salmanmani167?label=Followers&style=social" alt="GitHub followers" />
 </div>
 
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaman-hassan/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c8f900413d49b5dc)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmanmani167/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanmani167@gmail.com)
+
+</div>
+
 ## 🚀 About Me
 
 I'm a **Top Rated Shopify Developer** and **Full Stack Laravel Expert** with over **5 years of experience** in building robust e-commerce solutions and web applications. I specialize in creating high-performance, scalable applications that drive business growth.
@@ -70,13 +81,13 @@ I'm a **Top Rated Shopify Developer** and **Full Stack Laravel Expert** with ove
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=salmanmani167&theme=react-dark&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanmani167&theme=react-dark&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub Activity Graph" />
 </div>
 
 ## 🏆 Achievements & Certifications
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salmanmani167&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=salmanmani167&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 - ⭐ **Top Rated** on Upwork with 100% Job Success Score
@@ -119,16 +130,6 @@ const services = {
 - 📱 **Mobile-First Store**: Created responsive Shopify themes with 95+ PageSpeed score
 - 🔗 **API Integration**: Connected multiple third-party services with Laravel applications
 
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sulaman-hassan/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c8f900413d49b5dc)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/salmanmani167/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmanmani167@gmail.com)
-
-</div>
 
 ---
 
@@ -136,9 +137,8 @@ const services = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=65&desc=Let's%20build%20something%20amazing%20together&descAlignY=51&descAlign=center" />
 </div>
 
-### 💡 Fun Fact
-> "Code is like humor. When you have to explain it, it's bad." - I believe in writing clean, self-documenting code that speaks for itself!
+### 💡 Words of Wisdom
+> "Code is a story. If it's well-written, it's poetry. If not, the next dev will read it like a horror novel—and blame you for every sleepless night."  
+> **— Hassan Boukhari** (My Teacher)
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
+*I believe in writing clean, readable code that tells a story - making it accessible for developers at all levels.*
