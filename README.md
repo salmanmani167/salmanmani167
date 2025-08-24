@@ -86,9 +86,6 @@ I'm a **Top Rated Shopify Developer** and **Full Stack Laravel Expert** with ove
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=salmanmani167&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
 
 - ⭐ **Top Rated** on Upwork with 100% Job Success Score
 - 🥇 **Shopify Plus Expert** certification
@@ -140,5 +137,8 @@ const services = {
 ### 💡 Words of Wisdom
 > "Code is a story. If it's well-written, it's poetry. If not, the next dev will read it like a horror novel—and blame you for every sleepless night."  
 > **— Hassan Boukhari** (My Teacher)
+
+> 💡 "Demag ki Bati jgao" (Light up the mind!)  
+> **— My Sir**
 
 *I believe in writing clean, readable code that tells a story - making it accessible for developers at all levels.*
