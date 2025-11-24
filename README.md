@@ -24,9 +24,6 @@
 
 I'm a **Top Rated Shopify Developer** and **Full Stack Laravel Expert** with over **5 years of experience** in building robust e-commerce solutions and web applications. I specialize in creating high-performance, scalable applications that drive business growth.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salmanmani167&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
 
 ## 💼 Professional Expertise
 
