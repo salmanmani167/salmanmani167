@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Sulaman Hassan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=⭐+Top+Rated+Shopify+Developer;Shopify+Plus+Expert;Full+Stack+Laravel+Developer;5%2B+Years+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=⭐+Top+Rated+Shopify+Developer;Shopify+Plus+Expert;Full+Stack+Laravel+Developer;6%2B+Years+Experience" alt="Typing SVG" />
 </div>
 
 <div align="center">
